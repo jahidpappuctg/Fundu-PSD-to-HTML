@@ -253,10 +253,77 @@ label {
 #scrollUp:hover {
 	background: #444;
 }
+/* header */
+.transfarance-header{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: ;
+}
+.header-info-icon i{
+	color: #f87206;
+	font-size: 14px;
+}
+.header-info-icon {
+	margin-right: 15px;
+}
+.header-info-text span {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #99a39f;
+    display: inline-block;
+    margin-bottom: 10px;
+	
+}
+
+ .header-info-text h4 {
+    font-size: 18px;
+    color: #fff;
+	margin: 0;
+
+}
+
+.header-info ul li{
+	display: inline-block;
+	margin-right: 40px;
+}
 
 
+.header-login {
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #cbd6e3 !important;
+}
+.header-login a i{
+	margin-right: 3px;
+}
+
+.menu-box {
+    border: 2px solid #777781;
+    padding: 0 40px;
+}
 
 
+.header-btn.f-right {
+	background-color: #ec6e39;
+	text-transform: uppercase;
+	color: #fff;
+	padding: 20px 38px;
+	border-radius: 50px;
+    }
 
+    .main-menu ul li{
+	color: #fff;
+	display: inline-block;
+	padding: 20px 20px;
+    }	
 
+    
+    .main-menu ul li a{
+	color: #fff;	
+	display: inline-block;
+	text-transform: uppercase;
 
+}
